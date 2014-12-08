@@ -15,7 +15,7 @@ If you have *any problem* about this topic, you can:
 ### Textbook
 
 * \<Pattern Recognition and Machine Learning\> Christopher Bishop
-* \<Machine Learning a Probability Perspective\> Hardcover
+* \<Machine Learning a Probability Perspective\> Kevin Patrick Murphy
 * \<The Elements of Statistical Learning\> Trevor Hastie
 
 ### Seminar
