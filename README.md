@@ -9,7 +9,7 @@ If you have *any problem* about this topic, you can:
 
 ### About issue
 
-* You can use `MarkDown` syntax to highlight your text like this [README.md](https://github.com/rk2900/apex-ml-seminar/README.md)
+* You can use `MarkDown` syntax to highlight your text like this [README.md](https://github.com/rk2900/apex-ml-seminar/blob/master/README.md)
 
 
 ### Textbook
