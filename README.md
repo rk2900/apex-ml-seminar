@@ -11,6 +11,11 @@ If you have *any problem* about this topic, you can:
 
 * You can use `MarkDown` syntax to highlight your text like this [README.md](https://github.com/rk2900/apex-ml-seminar/blob/master/README.md)
 
+### How to write an article with math script?
+
+* There are many online MarkDown/LaTeX editors. You should edit your math scripts or any other texts and paste to Github's online edit window.
+
+[MarkDown Editor(LaTaX script supported)](https://www.zybuluo.com/mdeditor)
 
 ### Textbook
 
